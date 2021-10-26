@@ -6,6 +6,7 @@
 - 🌱 Currently pursuing **React 🔥**
 
 - 📫 How to reach me **harshitpanwar234567@gmail.com**
+- Need Urgent Help in Dynamic Programming 😐
 
 ![snake gif](https://github.com/harshitpanwar/harshitpanwar/blob/output/github-contribution-grid-snake.svg)
 
