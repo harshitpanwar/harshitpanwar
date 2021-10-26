@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshitpanwar234567@gmail.com**
 
-
+![snake gif](https://github.com/harshitpanwar/harshitpanwar/blob/output/github-contribution-grid-snake.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
