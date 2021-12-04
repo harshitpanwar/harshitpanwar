@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="harshitpanwar" /> </p>
 
-- 🌱 Currently pursuing **React 🔥**
-
-- 📫 How to reach me **harshitpanwar234567@gmail.com**
+- Grinding hard
+- View my portfolio here  => https://harshitpanwar.netlify.app/
 - Need Urgent Help in Dynamic Programming 😐
+- Appreciate my work, by starring some repositories
 
 ![snake gif](https://github.com/harshitpanwar/harshitpanwar/blob/output/github-contribution-grid-snake.svg)
 
